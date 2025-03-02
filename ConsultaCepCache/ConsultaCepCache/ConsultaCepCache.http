@@ -1,0 +1,6 @@
+@ConsultaCepCache_HostAddress = http://localhost:5178
+
+GET {{ConsultaCepCache_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
